@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "batman", "power": "fighting" },
+  { "id": 999, "name": "ironman", "cool": "true" },
+  { "id": 961, "name": "deadpool", "cool": "damnnn good Man" },
+  { "id": 711, "name": "heatman", "cool": true },
+  { "id": 367, "name": "shaktiman", "cool": true }
+]

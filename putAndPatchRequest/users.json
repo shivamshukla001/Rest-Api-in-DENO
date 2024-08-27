@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "sheru" },
+  { "id": 2, "name": "ratan" },
+  { "id": 3, "name": "suar" },
+  { "id": 4, "name": "aksu" },
+  { "id": 5, "name": "rega" },
+  { "id": 6, "name": "snax", "age": 46 }
+]
